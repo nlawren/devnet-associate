@@ -2,9 +2,10 @@
 
 Study material and notes.
 
-##  1.0 Software Development and Design 15%
-    1.1 Compare data formats (XML, JSON, and YAML)
-    1.2 Describe parsing of common data format (XML, JSON, and YAML) to Python data structures
+## 1.0 Software Development and Design 15%
+
+    1.1. Compare data formats (XML, JSON, and YAML)
+    1.2. Describe parsing of common data format (XML, JSON, and YAML) to Python data structures
     1.3 Describe the concepts of test-driven development
     1.4 Compare software development methods (agile, lean, and waterfall)
     1.5 Explain the benefits of organizing code into methods / functions, classes, and modules
@@ -19,7 +20,8 @@ Study material and notes.
         1.8.f Merge and handling conflicts
         1.8.g diff
 
-##  2.0 Understanding and Using APIs 20%
+## 2.0 Understanding and Using APIs 20%
+
     2.1 Construct a REST API request to accomplish a task given API documentation
     2.2 Describe common usage patterns related to webhooks
     2.3 Identify the constraints when consuming APIs
@@ -30,7 +32,8 @@ Study material and notes.
     2.8 Compare common API styles (REST, RPC, synchronous, and asynchronous)
     2.9 Construct a Python script that calls a REST API using the requests library
 
-##  3.0 Cisco Platforms and Development 15%
+## 3.0 Cisco Platforms and Development 15%
+
     3.1 Construct a Python script that uses a Cisco SDK given SDK documentation
     3.2 Describe the capabilities of Cisco network management platforms and APIs (Meraki, Cisco DNA Center, ACI, Cisco SD-WAN, and NSO)
     3.3 Describe the capabilities of Cisco compute management platforms and APIs (UCS Manager, UCS Director, and Intersight)
@@ -44,7 +47,8 @@ Study material and notes.
         3.9.b Manage spaces, participants, and messages in Webex Teams
         3.9.c Obtain a list of clients / hosts seen on a network using Meraki or Cisco DNA Center
 
-##  4.0 Application Deployment and Security 15%
+## 4.0 Application Deployment and Security 15%
+
     4.1 Describe benefits of edge computing
     4.2 Identify attributes of different application deployment models (private cloud, public cloud, hybrid cloud, and edge)
     4.3 Identify the attributes of these application deployment types
@@ -61,7 +65,8 @@ Study material and notes.
     4.11 Utilize Bash commands (file management, directory navigation, and environmental variables)
     4.12 Identify the principles of DevOps practices
 
-##  5.0 Infrastructure and Automation 20% 
+## 5.0 Infrastructure and Automation 20%
+
     5.1 Describe the value of model driven programmability for infrastructure automation
     5.2 Compare controller-level to device-level management
     5.3 Describe the use and roles of network simulation and test tools (such as VIRL and pyATS)
@@ -77,7 +82,8 @@ Study material and notes.
     5.13 Describe the principles and benefits of a code review process
     5.14 Interpret sequence diagram that includes API calls
 
-##  6.0 Network Fundamentals 15% 
+## 6.0 Network Fundamentals 15%
+
     6.1 Describe the purpose and usage of MAC addresses and VLANs
     6.2 Describe the purpose and usage of IP addresses, routes, subnet mask / prefix, and gateways
     6.3 Describe the function of common networking components (such as switches, routers, firewalls, and load balancers)
